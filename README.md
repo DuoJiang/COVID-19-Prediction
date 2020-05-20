@@ -14,4 +14,4 @@ The following is a detailed description of files in this repository:
 
 * [ERF error function.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/ERF-error-function.ipynb) takes in the processed data [full_data_with_hospital_MA_v0517_v2.csv](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/data/full_data_with_hospital_MA_v0517_v2.csv) to fit the model and evaluate performance.
 
-* [riskCalculation.ipynb] takes in the normalized visits data, population data from census, and confirmed cases data from JHU to calculate the import risk of each New York county.
+* [riskCalculation.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/riskCalculation.ipynb) takes in the normalized visits data, population data from census, and confirmed cases data from JHU to calculate the import risk of each New York county.
