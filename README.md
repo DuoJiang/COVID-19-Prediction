@@ -9,6 +9,7 @@ The following is a detailed description of files in this repository:
   * [cum_death_recover_update_05_08.csv](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/data/cum_death_recover_update_05_08.csv), 
   * [hospital.csv](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/data/hospital.csv) and 
   * [population_density_by_county.csv](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/data/population_density_by_county.csv) 
-  and merges them all together to get the final dataset we used for modeling.
+  
+  and merges them all together to get the final dataset we used for modeling [full_data_with_hospital_MA_v0517_v2.csv](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/data/full_data_with_hospital_MA_v0517_v2.csv).
 
 * [ERF error function.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/ERF error function.ipynb)
