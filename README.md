@@ -4,8 +4,8 @@ This is a final project for the course GA-DS 1003 Introduction to Machine Learni
 
 The following is a detailed description of files in this repository:
 
-1. [Merge_to_Full_Dataset_git.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/Merge_to_Full_Dataset_git.ipynb)
+* [Merge_to_Full_Dataset_git.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/Merge_to_Full_Dataset_git.ipynb)
 
-This notebook takes in processed dataset 
+This notebook takes in the processed dataset 
 
-2. 
+*
