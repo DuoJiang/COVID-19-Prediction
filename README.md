@@ -12,4 +12,4 @@ The following is a detailed description of files in this repository:
   
   and merges them all together to get the final dataset we used for modeling [full_data_with_hospital_MA_v0517_v2.csv](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/data/full_data_with_hospital_MA_v0517_v2.csv).
 
-* [ERF error function.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/ERF error function.ipynb)
+* [ERF error function.ipynb](https://github.com/JiaruiTang/DS1003-Predicting-the-COVID-19-Cases/blob/master/ERF-error-function.ipynb)
